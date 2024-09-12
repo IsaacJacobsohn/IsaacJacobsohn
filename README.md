@@ -1,7 +1,15 @@
 # Hi there 👋
 My name is Isaac Jacobsohn. I am a second year student at the University of Cincinnati studying for my B.S. in Computer Science. I am currently working on 2 projects, updating my Weather App to include a GUI made from tkinter, and starting a new project where I read the temperature of my room compared to outdoor temperatures and check the accuracy and consistency of my AC.
 
-<h2>Socials</h2></summary>
+I am currently looking for a co-op for the Spring of 2025.
+<h2>How to Reach Me</h2>
+  <p>
+    You can reach me via my email 
+    <a href="mailto:jacobsid@mail.uc.edu">jacobsid@mail.uc.edu</a>
+  </p>
+
+
+<h2>Socials</h2>
   <p>
     <a href="https://www.github.com/IsaacJacobsohn" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fgithub-logo-png-white-github-11-icon-free-white-social-icons-256x256.png&f=1&nofb=1&ipt=0a282f18d19db44f6bca4858ac106ff370c7f02f42e1a4f996fca9449bb7bc9d&ipo=images" width="50">
