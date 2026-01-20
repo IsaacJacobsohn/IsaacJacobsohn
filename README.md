@@ -1,7 +1,7 @@
 # Hi there 👋
-My name is Isaac Jacobsohn. I am a second year student at the University of Cincinnati studying for my B.S. in Computer Science. I am currently working on 2 projects, updating my Weather App to include a GUI made from tkinter, and starting a new project where I read the temperature of my room compared to outdoor temperatures and check the accuracy and consistency of my AC.
+My name is Isaac Jacobsohn. I am a third year student at the University of Cincinnati studying for my B.S. in Computer Science and my M.Eng. in Robotics and Robotics and Intelligent Autonomous Systems.
 
-I am currently looking for a co-op for the Spring of 2025.
+I am currently looking for a co-op for the Summer of 2026.
 <h2>How to Reach Me</h2>
   <p>
     You can reach me via my email 
@@ -17,7 +17,7 @@ I am currently looking for a co-op for the Spring of 2025.
     <a href="https://www.linkedin.com/in/isaac-jacobsohn/" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bryanulrich.net%2Fwp-content%2Fuploads%2F2020%2F09%2F1200px-Linkedin.svg-1024x1024.png&f=1&nofb=1&ipt=843b11473b6448538020df2c1f21ef803d1153cfba768e7199700b66ef2ab18e&ipo=images" width="50"/>
     </a>
-    <a href="https://uc.joinhandshake.com/profiles/58486722" target="_blank" rel="noopener noreferrer">
+    <a href="https://app.joinhandshake.com/profiles/isaacjacobsohn" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png" width="50"/>
     </a>
   </p>
