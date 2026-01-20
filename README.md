@@ -18,7 +18,7 @@ I am currently looking for a co-op for the Summer of 2026.
       <img align="center" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bryanulrich.net%2Fwp-content%2Fuploads%2F2020%2F09%2F1200px-Linkedin.svg-1024x1024.png&f=1&nofb=1&ipt=843b11473b6448538020df2c1f21ef803d1153cfba768e7199700b66ef2ab18e&ipo=images" width="50"/>
     </a>
     <a href="https://app.joinhandshake.com/profiles/isaacjacobsohn" target="_blank" rel="noopener noreferrer">
-      <img align="center" src="https://joinhandshake.com/wp-content/themes/handshake/dist/assets/images/home/handshake-logo.png" width="50"/>
+      <img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.uconnectlabs.com%2Fwp-content%2Fuploads%2Fsites%2F25%2F2023%2F01%2Fhandshake-logo.png&f=1&nofb=1&ipt=58e7b70e007606d71c548020bf1983c023d7a15b41f4f9ce35886725aeda6fdb" width="50"/>
     </a>
   </p>
 
