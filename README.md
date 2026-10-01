@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Isaac Jacobsohn. I am a third year student at the University of Cincinnati studying for my B.S. in Computer Science and my M.Eng. in Robotics and Robotics and Intelligent Autonomous Systems.
+My name is Isaac Jacobsohn. I am a fourth year student at the University of Cincinnati studying for my B.S. in Computer Science and my M.Eng. in Robotics and Intelligent Autonomous Systems.
 
 I am currently looking for a co-op for the Summer of 2026.
 <h2>How to Reach Me</h2>
